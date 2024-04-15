@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const songs = [
         'audios/musicamenos.mp4',
         'audios/pagodin.mp4',
-        'audios/pixote.mp4'
+        'audios/.mp4'
     ];
 
     function playPause() {
